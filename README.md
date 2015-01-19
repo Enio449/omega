@@ -1,1 +1,1 @@
-Hello Yii
+Привет Yii!
